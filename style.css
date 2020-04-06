@@ -38,6 +38,17 @@
         opacity: 1;
     }
 
+    .languages  {
+        text-align: center;
+        font-size: 13px;
+        margin-top: 20px;
+    }
+
+    .languages a    {
+        text-decoration: none;
+        color: blue;
+    }
+
     #main_input {
         border:1px solid rgb(201, 201, 201);
         border-radius: 30px;
