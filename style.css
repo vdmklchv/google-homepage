@@ -48,6 +48,7 @@
         font-size: 15px;
         text-align: left;
         padding-inline: 10px;
+        box-shadow: 0.5px 0.5px 0.5px 0.5px grey;
     }
 
     #sign-in-button {
