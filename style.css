@@ -71,6 +71,16 @@
         opacity: 1;
     }
 
+    #gapps_icon {
+        height: 20px;
+        vertical-align: center;
+        opacity: 0.7;
+    }
+
+    #gapps_icon:hover {
+        opacity: 1;
+    }
+
     li  {
         display: inline-block;
         font-size: 12px;
@@ -78,5 +88,6 @@
         font-family: sans-serif;
         text-align: center;
         margin-left: 8px;
+        vertical-align: middle;
     }
     
