@@ -93,6 +93,7 @@
         border: 1px;
         color: grey;
         font-family: sans-serif;
+        overflow-x: auto;
     }
 
     .footer2 a  {
@@ -187,8 +188,7 @@
         list-style: none;
         float: left;
         font-size: 14px;
-        position: fixed;
-        min-width: 100vw;
+        position: absolute;
     }
 
     #ul1 li {
@@ -205,7 +205,6 @@
         text-align: right;
         margin-right: 20px;
         float: right;
-        position: static;
         font-size: 14px;
     }
 
