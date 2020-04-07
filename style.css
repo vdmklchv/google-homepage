@@ -13,6 +13,7 @@
 
     .main   {
         flex-grow: 1;
+        margin: auto;
     }
     
     .row   {
@@ -186,6 +187,8 @@
         list-style: none;
         float: left;
         font-size: 14px;
+        position: fixed;
+        min-width: 100vw;
     }
 
     #ul1 li {
@@ -202,6 +205,7 @@
         text-align: right;
         margin-right: 20px;
         float: right;
+        position: static;
         font-size: 14px;
     }
 
